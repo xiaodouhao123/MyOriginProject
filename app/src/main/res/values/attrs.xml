@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ProgressBar">
+        <attr name="innerBackground" format="color"/>
+        <attr name="outerColor" format="color"/>
+        <attr name="foundWidth" format="dimension"/>
+        <attr name="progressTextSize" format="dimension"/>
+        <attr name="progressTextColor" format="color"/>
+    </declare-styleable>
+    <declare-styleable name="LetterSideBar">
+        <attr name="texDefaulttColor" format="color"/>
+        <attr name="textSelectedColor" format="color"/>
+        <attr name="textSize" format="dimension"/>
+    </declare-styleable>
+</resources>
