@@ -7,6 +7,7 @@ import android.util.AttributeSet
 import android.view.View
 import javax.net.ssl.SSLEngineResult
 //myfirst
+//mysecond
 class LockPatternView :View{
     private var mIsInit=false
     //外圆的半径
